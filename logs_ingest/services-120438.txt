@@ -1,0 +1,2 @@
+The given nginx is running
+The given sshd is running
