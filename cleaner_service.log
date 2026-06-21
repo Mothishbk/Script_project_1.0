@@ -1,0 +1,4 @@
+07:44:42 [INFO] Cleaning . (usage 97% > threshold 60%).
+07:44:42 [INFO] Deleted ./large_file2.img
+07:44:51 [INFO] No cleanup needed for .. Usage is 33%.
+07:47:38 [INFO] No cleanup needed for .. Usage is 33%.
